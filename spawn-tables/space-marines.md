@@ -1,6 +1,7 @@
 ---
-title: Space Marines
+title: Space Marines Spawn Table
 type: spawn-table
+faction: Space Marines
 author: The Poorhammer Podcast
 ---
 
@@ -12,7 +13,7 @@ For leader units, move up one tier and add a valid leader (or double leader if y
 
 ## Roll Result and Units {#roll-results}
 
-### 3-4 {#34-roll}
+### 3-4
 
   - Eliminator Squad (3)
   - Lieutenant with Combi (1)
@@ -23,7 +24,7 @@ For leader units, move up one tier and add a valid leader (or double leader if y
   - Firestrike Servo Turrets (1)
   - Suppressor Squad (3)
 
-### 5-6 {#56-roll}
+### 5-6
 
   - Aggressor Squad (3)
   - Assault Intercessor (10)
@@ -66,7 +67,7 @@ For leader units, move up one tier and add a valid leader (or double leader if y
   - Outrider Squad (3) + Invader ATV (1)
 
 
-### 7-9 {#79-roll}
+### 7-9
 
   - Impulsor (Full)
   - Aggressor Squad (6)
@@ -101,7 +102,7 @@ For leader units, move up one tier and add a valid leader (or double leader if y
   - Razorback (Full)
   - Drop Pod (Full)
 
-### 10+ {#10-roll}
+### 10+
 
   - Centurion Assault Squad (6)
   - Centurion Devastator Squad (6)
