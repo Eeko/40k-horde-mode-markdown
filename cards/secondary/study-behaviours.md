@@ -2,7 +2,7 @@
 title: Study Behaviors
 type: secondary
 author: The Poorhammer Podcast
-flavor: The last sixty stupid evil guys who tried to control the aliens all got their brains spread out on cream crackers, but I think their problem was \\not being stupid and evil enough. 
+hidden-flavor: The last sixty stupid evil guys who tried to control the aliens all got their brains spread out on cream crackers, but I think their problem was \\not being stupid and evil enough. 
 flavor-source: Alien
 ---
 

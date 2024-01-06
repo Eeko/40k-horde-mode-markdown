@@ -2,8 +2,8 @@
 title: Search for Supplies
 type: secondary
 author: The Poorhammer Podcast
-flavor: Tony Stark was able to build this in a cave!\\With a BOX OF SCRAPS!
-flavor-source: Iron Man
+hidden-flavor: Tony Stark was able to build this in a cave!\\With a BOX OF SCRAPS!
+hidden-flavor-source: Iron Man
 ---
 
 # Search for Supplies {#title}
