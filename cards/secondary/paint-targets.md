@@ -2,7 +2,7 @@
 title: Paint Targets
 type: secondary
 author: The Poorhammer Podcast
-flavor: Stay on target, stay on target...
+hidden-flavor: Stay on target, stay on target...
 flavor-source: Star Wars A New Hope
 ---
 
